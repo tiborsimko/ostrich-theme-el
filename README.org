@@ -1,0 +1,15 @@
+* About ostrich-theme-el
+
+My Emacs 24 colour theme.
+
+* Usage:
+
+#+BEGIN_SRC emacs-lisp
+(load-file "~/private/src/ostrich-theme-el/ostrich-theme.el")
+(require 'ostrich-theme)
+(enable-theme 'ostrich)
+#+END_SRC
+
+* License
+
+GNU General Public License version 2
