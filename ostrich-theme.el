@@ -134,7 +134,7 @@
  '(gnus-summary-normal-unread-face ((t (nil))))
  '(gnus-summary-selected-face ((t (:underline t))))
  '(header-line ((t (:background "grey20" :foreground "grey75" :box (:line-width 3 :color "grey20" :style released-button) :height 0.9))))
- '(highlight ((t (:background "grey15"))))
+ '(highlight ((t (:background "grey11"))))
  '(info-header-node ((t (:italic t :bold t :weight bold :slant italic :foreground "white"))))
  '(info-header-xref ((t (:bold t :weight bold :foreground "cyan"))))
  '(info-menu-5 ((t (:foreground "red1"))))
