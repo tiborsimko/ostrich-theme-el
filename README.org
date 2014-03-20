@@ -1,14 +1,26 @@
+#+TITLE: ostrich-theme-el
+#+AUTHOR: Tibor Simko
+#+EMAIL: tibor.simko@cern.ch
+#+DATE: <2014-03-20 Thu>
+#+DESCRIPTION: A dark Emacs theme.
+#+KEYWORDS: emacs, theme, ostrich
+#+LANGUAGE: en
+
 * About ostrich-theme-el
 
-My Emacs 24 colour theme.
+A dark Emacs 24 colour theme.
 
-* Usage:
+* Usage
 
 #+BEGIN_SRC emacs-lisp
 (load-file "~/private/src/ostrich-theme-el/ostrich-theme.el")
 (require 'ostrich-theme)
 (enable-theme 'ostrich)
 #+END_SRC
+
+* Screenshot
+
+[[ostrich-theme-screenshot.png]]
 
 * License
 
