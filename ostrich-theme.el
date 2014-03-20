@@ -69,7 +69,7 @@
  '(font-lock-type-face ((t (:bold t :foreground "PaleGreen" :weight bold :height 0.9))))
  '(font-lock-variable-name-face ((t (:foreground "Aquamarine"))))
  '(font-lock-warning-face ((t (:bold t :foreground "chocolate" :weight bold))))
- '(fringe ((t (:width normal :weight normal :slant normal :underline nil :overline nil :strike-through nil :box nil :inverse-video nil :stipple nil :background "grey4" :foreground "Wheat"))))
+ '(fringe ((t (:width normal :weight normal :slant normal :underline nil :overline nil :strike-through nil :box nil :inverse-video nil :stipple nil :background "#131313" :foreground "Wheat"))))
  '(gnus-cite-attribution-face ((t (:italic t :slant italic))))
  '(gnus-cite-face-1 ((t (:foreground "light blue"))))
  '(gnus-cite-face-10 ((t (:foreground "medium purple"))))
